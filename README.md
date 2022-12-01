@@ -1,6 +1,6 @@
 # FINTECH-Challenge-20-Solidity
 
-# Added joint_savings_FINAL.sol Solidity file to GitHub on 2nd submission
+## Added joint_savings_FINAL.sol Solidity file to GitHub on 2nd submission
 
 I have included 10 screenshots in a folder labeled "Execution_Results."  
 
